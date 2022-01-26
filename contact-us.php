@@ -16,6 +16,7 @@
     include("assets/includes/header.php");
     ?>
 
+THIS IS MY CONTACT PAGE
     
     <?php
     include("assets/includes/footer.php");
