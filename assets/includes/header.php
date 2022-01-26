@@ -21,18 +21,14 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="news.php">News</a></li>
-                        <li>
-                            <!-- <hr class="dropdown-divider"> -->
-                        </li>
                         <li><a class="dropdown-item" href="announcement.php">Anouncement</a></li>
                         <li><a class="dropdown-item" href="jobs.php">Jobs</a></li>
+                        <li><a class="dropdown-item" href="about-us.php">About Us</a></li>
+                        <li><a class="dropdown-item" href="contact-us.php">Contact Us</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="about-us.php">About Us</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="contact-us.php">Contact Us</a>
+                    <a class="nav-link" href="automobiles.php">Automobiles</a>
                 </li>
             </ul>
             <div class="d-flex">

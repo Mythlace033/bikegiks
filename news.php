@@ -18,32 +18,42 @@
 
     <div class="container my-5">
         <div class="row">
-            <div class="col-md-7 mx-auto">
-
+            <div class="col-md-4  ">
                 <a class="news text-reset" href="full-news.php?id=16" style="text-decoration:none;" target="_blank">
-                    <h1 class="text-dark">Nepal Bars Entry for South Africans</h1>
+                    <h3 class="text-dark">Nepal Bars Entry for South Africans</h3>
                     <h6 class="text-secondary">Posted on: 2022-01-21
                         <hr />
                     </h6>
                 </a>
-
-                <a class="news text-reset" href="full-news.php?id=14" style="text-decoration:none;" target="_blank">
-                    <h1 class="text-dark">UK Eases Travel Rules for Nepalis.</h1>
-                    <h6 class="text-secondary">Posted on: 2022-01-19
+            </div>
+            <div class="col-md-4  ">
+                <a class="news text-reset" href="full-news.php?id=16" style="text-decoration:none;" target="_blank">
+                    <h3 class="text-dark">Nepal Bars Entry for South Africans</h3>
+                    <h6 class="text-secondary">Posted on: 2022-01-21
                         <hr />
                     </h6>
                 </a>
-
-                <a class="news text-reset" href="full-news.php?id=13" style="text-decoration:none;" target="_blank">
-                    <h1 class="text-dark">World Bank Agrees �NPR 7.12 Bn Loan� for Improving Nepal�s Higher Education!</h1>
-                    <h6 class="text-secondary">Posted on: 2022-01-18
+            </div>
+            <div class="col-md-4  ">
+                <a class="news text-reset" href="full-news.php?id=16" style="text-decoration:none;" target="_blank">
+                    <h3 class="text-dark">Nepal Bars Entry for South Africans</h3>
+                    <h6 class="text-secondary">Posted on: 2022-01-21
                         <hr />
                     </h6>
                 </a>
-
-                <a class="news text-reset" href="full-news.php?id=12" style="text-decoration:none;" target="_blank">
-                    <h1 class="text-dark">Traveling to Dubai during Covid-19: What you need to know before you go</h1>
-                    <h6 class="text-secondary">Posted on: 2022-01-12
+            </div>
+            <div class="col-md-4  ">
+                <a class="news text-reset" href="full-news.php?id=16" style="text-decoration:none;" target="_blank">
+                    <h3 class="text-dark">Nepal Bars Entry for South Africans</h3>
+                    <h6 class="text-secondary">Posted on: 2022-01-21
+                        <hr />
+                    </h6>
+                </a>
+            </div>
+            <div class="col-md-4  ">
+                <a class="news text-reset" href="full-news.php?id=16" style="text-decoration:none;" target="_blank">
+                    <h3 class="text-dark">Nepal Bars Entry for South Africans</h3>
+                    <h6 class="text-secondary">Posted on: 2022-01-21
                         <hr />
                     </h6>
                 </a>
