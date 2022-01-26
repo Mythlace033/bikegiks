@@ -25,7 +25,7 @@
                             <!-- <hr class="dropdown-divider"> -->
                         </li>
                         <li><a class="dropdown-item" href="announcement.php">Anouncement</a></li>
-                        <li><a class="dropdown-item" href="faq.php">Jobs</a></li>
+                        <li><a class="dropdown-item" href="jobs.php">Jobs</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">

@@ -47,16 +47,16 @@
                         Useful links
                     </h6>
                     <p>
-                        <a href="#!" class="text-reset">FAQs</a>
+                        <a href="faqs.php" class="text-reset">FAQs</a>
                     </p>
                     <p>
                         <a href="privacy.php" class="text-reset">Privacy Policy</a>
                     </p>
                     <p>
-                        <a href="#!" class="text-reset">Terms & Condition</a>
+                        <a href="terms.php" class="text-reset">Terms & Condition</a>
                     </p>
                     <p>
-                        <a href="#!" class="text-reset">Disclaimer</a>
+                        <a href="disclaimer.php" class="text-reset">Disclaimer</a>
                     </p>
                 </div>
                 <!-- Grid column -->
