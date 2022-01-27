@@ -23,19 +23,19 @@
                 <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
                     <!-- Links -->
                     <h6 class="text-uppercase fw-bold mb-4 text-danger">
-                        News
+                        Access to information
                     </h6>
                     <p>
-                        <a href="#!" class="text-reset">Angular</a>
+                        <a href="announcement.php" class="text-reset">Announcement</a>
                     </p>
                     <p>
-                        <a href="#!" class="text-reset">React</a>
+                        <a href="jobs.php" class="text-reset">Jobs</a>
                     </p>
                     <p>
-                        <a href="#!" class="text-reset">Vue</a>
+                        <a href="about-us.php" class="text-reset">About Us</a>
                     </p>
                     <p>
-                        <a href="#!" class="text-reset">Laravel</a>
+                        <a href="contact-us.php" class="text-reset">Contact Us</a>
                     </p>
                 </div>
                 <!-- Grid column -->

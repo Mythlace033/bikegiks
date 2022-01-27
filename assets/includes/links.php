@@ -5,6 +5,12 @@
 
 <!-- for data tables -->
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.4/css/jquery.dataTables.css">
+
+<!-- Logo -->
+<link rel="apple-touch-icon" sizes="180x180" href="assets\images\apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets\images\favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets\images\favicon-16x16.png">
+
 <script>
     $(document).ready(function() {
         $('#responsivePegination').DataTable();
@@ -15,5 +21,3 @@
         width:100%;
     }
 </style>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/css/splide.min.css">
-<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/js/splide.min.js"></script>

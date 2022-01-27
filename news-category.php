@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bikegiks: Trending News</title>
+    <title>Bikegiks: News by category</title>
     <?php
     include("assets/includes/links.php");
     ?>
@@ -19,7 +19,7 @@
     <div class="container my-5">
         <div class="row">
             <div class="col-md-12">
-                <h2 class="text-danger">Automobile News</h2>
+                <h2 class="text-danger">This is Category:______</h2>
             </div>
         </div>
         <div class="row my-3  p-2 m-3 shadow">

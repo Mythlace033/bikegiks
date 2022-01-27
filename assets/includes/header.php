@@ -15,17 +15,8 @@
                     <a class="nav-link text-danger" href="">Compare</a>
                 </li>
 
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle text-danger" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        More
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item text-danger" href="news.php">News</a></li>
-                        <li><a class="dropdown-item text-danger" href="announcement.php">Anouncement</a></li>
-                        <li><a class="dropdown-item text-danger" href="jobs.php">Jobs</a></li>
-                        <li><a class="dropdown-item text-danger" href="about-us.php">About Us</a></li>
-                        <li><a class="dropdown-item text-danger" href="contact-us.php">Contact Us</a></li>
-                    </ul>
+                <li class="nav-item">
+                    <a class="nav-link text-danger" href="news.php">News</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-danger" href="automobiles.php">Automobiles</a>
