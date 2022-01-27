@@ -50,22 +50,22 @@
             <div class="carousel-item active">
                 <img src="assets\images\rx1.jpg" alt="Los Angeles" class="d-block" style="width:100%">
                 <div class="carousel-caption">
-                    <h3>Los Angeles</h3>
-                    <p>We had such a great time in LA!</p>
+                    <h3>Royal Enfield</h3>
+                    <p>Adventure Touring, Motorcycle!</p>
+                </div>
+            </div> 
+            <div class="carousel-item">
+                <img src="assets\images\himalayan-right-front-three-quarter.jpeg" alt="Chicago" class="d-block" style="width:100%">
+                <div class="carousel-caption">
+                    <h3>Royal Enfield</h3>
+                    <p>Adventure Touring, Motorcycle!</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="assets\images\rx2.jpg" alt="Chicago" class="d-block" style="width:100%">
+                <img src="assets\images\himalayan-left-front-three-quarter.jpeg" alt="New York" class="d-block" style="width:100%">
                 <div class="carousel-caption">
-                    <h3>Chicago</h3>
-                    <p>Thank you, Chicago!</p>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="assets\images\rx3.jpg" alt="New York" class="d-block" style="width:100%">
-                <div class="carousel-caption">
-                    <h3>New York</h3>
-                    <p>We love the Big Apple!</p>
+                    <h3>Royal Enfield</h3>
+                    <p>Adventure Touring, Motorcycle!</p>
                 </div>
             </div>
         </div>
