@@ -11,12 +11,15 @@
     ?>
     <style>
         .card {
-            width: 350px;
+            width: 330px;
             height: 390px;
             border:none;
             box-shadow: 0px 0px 10px grey;
             display: inline-block;
-            margin: 30px;
+            margin: 20px;
+        }
+        .bikeContainer{
+            margin: 0 auto;
         }
     </style>
 </head>
@@ -27,7 +30,7 @@
     ?>
 
 
-    <div class="container my-5">
+    <div class="container-fluid my-5 bikeContainer">
         <div class="card p-3">
            <div class="row">
                 <div class="col-md-12">

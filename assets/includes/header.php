@@ -12,7 +12,7 @@
                     <a class="nav-link active text-danger" aria-current="page" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-danger" href="">Compare</a>
+                    <a class="nav-link text-danger" href="compare-automobiles.php">Compare</a>
                 </li>
 
                 <li class="nav-item">

@@ -11,12 +11,15 @@
     ?>
     <style>
         .card {
-            width: 350px;
+            width: 330px;
             height: 390px;
             border:none;
             box-shadow: 0px 0px 10px grey;
             display: inline-block;
-            margin: 30px;
+            margin: 20px;
+        }
+        .bikeContainer{
+            margin: 0 auto;
         }
     </style>
 </head>
@@ -27,10 +30,10 @@
     ?>
 
 
-    <div class="container my-5">
+    <div class="container-fluid my-5 bikeContainer">
         <div class="row">
-            <div class="col-md-12 ms-4">
-                <h3 class="text-danger">Category: _____</h3>
+            <div class="col-md-12">
+                <h3 class="text-danger ms-3">Category: _____</h3>
             </div>
         </div>
         <div class="card p-3">
