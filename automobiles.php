@@ -21,6 +21,10 @@
     ?>
     
     <?php
+        include("assets/includes/topSellingAutomobiles.php");
+    ?>
+
+    <?php
     include("assets/includes/footer.php");
     ?>
 </body>
