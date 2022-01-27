@@ -16,25 +16,7 @@
                     <tbody>
                         <tr>
                             <td>
-                                <img src="assets\images\rx1.jpg" alt="">
-                            </td>
-                            <td>
-                                <img src="assets\images\rx2.jpg" alt="">
-                            </td>
-                            <td>
-                                <img src="assets\images\rx3.jpg" alt="">
-                            </td>
-                            <td>
-                                <img src="assets\images\rx3.jpg" alt="">
-                            </td>
-                            <td>
-                                <img src="assets\images\rx3.jpg" alt="">
-                            </td>
-                            <td>
-                                <img src="assets\images\rx3.jpg" alt="">
-                            </td>
-                            <td>
-                                <img src="assets\images\rx3.jpg" alt="">
+                                <img src="assets\images\tvsLogo.png" alt="" class="shadow">
                             </td>
                         </tr>
                     </tbody>
