@@ -50,8 +50,8 @@
 
             <div class="col-md-6">
                 <a class="news text-reset" href="full-news.php?id=16" style="text-decoration:none;" target="_blank">
-                    <h2 class="text-dark">Nepal Bars Entry for South Africans</h2>
-                    <p class="text-secondary">Posted on: <date>2022-01-21</date>
+                    <h2 class="text-dark">Upcoming bikes launching in 2022</h2>
+                    <p class="text-secondary">By BIkegiks: <date>January 27, 2022</date>
                         <hr />
                     </p>
                 </a>
