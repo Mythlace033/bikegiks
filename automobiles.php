@@ -66,7 +66,7 @@
                    <h5>KTM RC 390</h5>
                    <h6 class="badge bg-success">KTM</h6>
                    <p>The RC 390 is due for a major update, and it will get one in 2022.</p>
-                   <a href="automobile-details.php?automobileId=12"><button class="btn btn-danger form-control">Know More</button></a>
+                   <a href=""><button class="btn btn-danger form-control">Know More</button></a>
                </div>
            </div>
         </div>
