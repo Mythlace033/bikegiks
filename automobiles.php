@@ -31,6 +31,9 @@
 
 
     <div class="container-fluid my-5 bikeContainer">
+
+
+        
         <div class="card p-3">
            <div class="row">
                 <div class="col-md-12">
@@ -43,60 +46,7 @@
                    <a href="automobile-details.php?automobileId=12"><button class="btn btn-danger form-control">Know More</button></a>
                </div>
            </div>
-        </div>
-        <div class="card p-3">
-           <div class="row">
-                <div class="col-md-12">
-                    <img src="assets\images\dominar-d400.png" alt="">
-                </div>
-               <div class="col-md-12">
-                   <h5>Dominar-400</h5>
-                   <h6 class="badge bg-success">Bajaj</h6>
-                   <p>Product details in breif lorem ipsum dolor saving and clik to know more</p>
-                   <a href=""><button class="btn btn-danger form-control">Know More</button></a>
-               </div>
-           </div>
-        </div>
-        <div class="card p-3">
-           <div class="row">
-                <div class="col-md-12">
-                    <img src="assets\images\KTM-RC-390-Studio-Shot.jpg" alt="">
-                </div>
-               <div class="col-md-12">
-                   <h5>KTM RC 390</h5>
-                   <h6 class="badge bg-success">KTM</h6>
-                   <p>The RC 390 is due for a major update, and it will get one in 2022.</p>
-                   <a href=""><button class="btn btn-danger form-control">Know More</button></a>
-               </div>
-           </div>
-        </div>
-        <div class="card p-3">
-           <div class="row">
-                <div class="col-md-12">
-                    <img src="assets\images\dominar-d400.png" alt="">
-                </div>
-               <div class="col-md-12">
-                   <h5>Dominar-40</h5>
-                   <h6 class="badge bg-success">Bajaj</h6>
-                   <p>Product details in breif lorem ipsum dolor saving and clik to know more</p>
-                   <a href=""><button class="btn btn-danger form-control">Know More</button></a>
-               </div>
-           </div>
-        </div>
- 
-        <div class="card p-3">
-           <div class="row">
-                <div class="col-md-12">
-                    <img src="assets\images\dominar-d400.png" alt="">
-                </div>
-               <div class="col-md-12">
-                   <h5>Dominar-400</h5>
-                   <h6 class="badge bg-success">Bajaj</h6>
-                   <p>Product details in breif lorem ipsum dolor saving and clik to know more</p>
-                   <a href=""><button class="btn btn-danger form-control">Know More</button></a>
-               </div>
-           </div>
-        </div>
+        </div> 
     </div>
 
 
